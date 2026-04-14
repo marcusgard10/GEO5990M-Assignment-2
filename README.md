@@ -10,11 +10,11 @@ In the 21st century socio-economic inequality has worsened worldwide, including 
 
 In the context of rising inequality, house prices have seen a major rise when adjusting for earnings from 3.54x the median income in 1997 to 7.71x in 2024. Research has found that this sharp increases in house prices has exacerbated already prevalent health inequalities, where lower income individuals health is being negatively affected while wealthier individuals see health benefits (Grewal, 2024). 
 
-Liverpool has historically had lower house prices than the UK average ( ). Although, the national increase in housing prices has been affecting prices in the city. There was a 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026).
+Liverpool has historically had lower house prices than the UK's average ( ). Although, the national increase in housing prices has been affecting prices in the city. Shown by the 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026).
 
-Health research in Liverpool has found
-1. Talk on socio-economic link
-2. Geographically areas
+Past health research into childhood obesity in Liverpool revealed stark socio-economic inequalities, characterised by those from the most deprived communities (measured by IMD) having the greatest likelihood of being obese and vulnerable to poor health (Noonan, 2018). Furthermore, Noonan et al (2016) found that children growing up in deprived neighbourhoods were exposed to environments that are unfavourable to creating healthy behaviours. Therefore, its clear a relationship has been established within the city of Liverpool as on a national level between poor health and deprivated areas and individuals.
+
+Past research using property prices as a proxy for socio-economic status by Coffee et al. (2013) showed that cardiovascular health along with obesity rates were lower in those of a higher status. Furthermore, the article highlights the importance of utilising housing prices as a measure of socio-economic status as generally the data is released alot more frequently than other types such as employment, education and income. 
 
 Therefore, this study seeks to investigate ,in Liverpool, whether incidence of very poor health is consistent with other research that has found socio-economic deprivation important.
 
@@ -41,11 +41,17 @@ References:
 
 Burns, L., 2016. Creating a Health/Deprivation Geodemographic Classification System Using K-Means Clustering Methods. London: Sage Publications. DOI: https://doi.org/10.4135/9781473977839
 
+Coffee, N.T., Lockwood, T., Hugo, G., Paquet, C., Howard, N.J. and Daniel, M., 2013. Relative residential property value as a socio-economic status indicator for health research. International journal of health geographics, 12(1), p.22.
+
 Esquivel M. and Wharton G (2024) Acting Early on NCDs: Research and action for digitally-enabled health systems. [Online] [Accessed 14/04/26] Available at: https://www.lse.ac.uk/business/consulting/news/acting-early-on-NCDs
 
 Feinstein, J.S., 1993. The relationship between socioeconomic status and health: a review of the literature. The Milbank Quarterly, pp.279-322.
 
 Grewal, A., Hepburn, K.J., Lear, S.A., Adshade, M. and Card, K.G., 2024. The impact of housing prices on residents’ health: a systematic review. BMC Public Health, 24(1), p.931.
+
+Noonan, R.J., Boddy, L.M., Knowles, Z.R. and Fairclough, S.J., 2016. Cross-sectional associations between high-deprivation home and neighbourhood environments, and health-related variables among Liverpool children. BMJ open, 6(1), p.e008693.
+
+Noonan, R.J., 2018. Prevalence of childhood overweight and obesity in Liverpool between 2006 and 2012: evidence of widening socioeconomic inequalities. International Journal of Environmental Research and Public Health, 15(12), p.2612.
 
 ONS, 2026. Housing prices in Liverpool. [Online]. [Accessed 14 April 2026]. Available from: https://www.ons.gov.uk/visualisations/housingpriceslocal/E08000012/#house_price
 
