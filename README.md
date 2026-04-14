@@ -4,7 +4,18 @@ Project exploring the relationship between housing prices and incidence of very 
 This project utilises housing prices as a proxy for socio-economic status of an LSOA to investigate if there is a relationship  towards the incidence of very bad health across the city of Liverpool, UK.
 
 Background information on incidence of poor health:
+The 20th century saw the quality of healthcare and life expectancy increase dramatically for all in developed countries, but such a process occurred with distinct inequalities broadly characterised by poorer health outcomes for economically disadvantaged individuals (Feinstein, 1993).
 
-Socio-economic inequalities:
+In the 21st century socio-economic inequality has worsened worldwide, including in the UK ( ). Simultaneously, new and emerging health challenges are developing, most notably the rise of morbidity and mortality due to non-communicable diseases (Esquivel, 2024) . Evidence consistently shows that socioeconomically deprived individuals in England are generally at the greatest risk of developing poor health due to non-communicable disease (Ogunlayi et al., 2023). Furthermore, social-science research into health level and socioeconomic status continually shows links between deprivation and the development of poor health (Burns, 2016). Research into health in Liverpool has found ....
 
-Liverpool context:
+In the context of rising inequality, house prices have seen a major rise when adjusting for earnings from 3.54x the median income in 1997 to 7.71x in 2024. Research has found that this sharp increases in house prices has exacerbated already prevalent health inequalities, where lower income individuals health is being negatively affected while wealthier individuals see health benefits (Grewal, 2024). 
+
+Liverpool has historically had lower house prices than the UK average ( ). Although, the national increase in housing prices has been affecting prices in the city. There was a 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026).
+
+Health research in Liverpool has found
+1. Talk on socio-economic link
+2. Geographically areas
+
+Therefore, this study seeks to investigate ,in Liverpool, whether incidence of very poor health is consistent with other research that has found socio-economic deprivation important.
+
+A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status.
