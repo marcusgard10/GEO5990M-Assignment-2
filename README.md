@@ -1,23 +1,18 @@
 # GEO5990M-Assignment-2
-Project exploring the relationship between housing prices and incidence of very bad health across Liverpool.
-
-This project utilises housing prices as a proxy for socio-economic status of an LSOA to investigate if there is a relationship  towards the incidence of very bad health across the city of Liverpool, UK.
+THis project explores the relationship between housing prices and incidence of very bad health across Liverpool. To do this average housing prices are used as a proxy for socio-economic status of an LSOA to investigate if there is a relationship towards the incidence of very bad health across the city of Liverpool, UK.
 
 Background information on incidence of poor health:
-The 20th century saw the quality of healthcare and life expectancy increase dramatically for all in developed countries, but such a process occurred with distinct inequalities broadly characterised by poorer health outcomes for economically disadvantaged individuals (Feinstein, 1993).
+Across the 20th century saw the quality of healthcare and life expectancy increase dramatically for all in developed countries, but such a process occurred with distinct inequalities broadly characterised by poorer health outcomes for economically disadvantaged individuals (Feinstein, 1993). Since the 1980s, income inequality in the UK has risen according to the Gini coeffcient (Hassell et al., 2023). Evidence suggests that wealth inequality has risen, to a far greater extent than income, and is continuing to grow (Bourquin et al, 2024). For instance, between 2011 and 2019 Snell (2024) found that the wealth in the UK gap grew by 50%.
 
-In the 21st century socio-economic inequality has worsened worldwide, including in the UK ( ). Simultaneously, new and emerging health challenges are developing, most notably the rise of morbidity and mortality due to non-communicable diseases (Esquivel and Wharton, 2024) . Evidence consistently shows that socioeconomically deprived individuals in England are generally at the greatest risk of developing poor health due to non-communicable disease (Ogunlayi et al., 2023). Furthermore, social-science research into health level and socioeconomic status continually shows links between deprivation and the development of poor health (Burns, 2016). Research into health in Liverpool has found ....
+Simultaneously, new health challenges are emerging, most notably the rise of morbidity and mortality due to non-communicable diseases (Esquivel and Wharton, 2024). Evidence consistently shows that socioeconomically deprived individuals in England are generally at the greatest risk of developing poor health due to non-communicable disease (Ogunlayi et al., 2023). Furthermore, social-science research into health level and socioeconomic status continually shows links between deprivation and the development of poor health (Burns, 2016). Past health research into childhood obesity in Liverpool revealed stark socio-economic inequalities, characterised by those from the most deprived communities (measured by IMD) having the greatest likelihood of being obese and vulnerable to poor health (Noonan, 2018). Furthermore, Noonan et al (2016) found that children growing up in deprived neighbourhoods were exposed to environments that are unfavourable to creating healthy behaviours. Research has also found evidence that air pollution in Liverpool is unevenly affecting deprived areas of the city with detrimentally health impacts for residents of these areas (Higham et al., 2026). Therefore, a relationship has been demonstrated within Liverpool between incidence of poor health and deprivation. This research seeks to add to this area by testing whether the incidence of self-reported very poor health is linked to housing prices in Liverpool.
 
+Housing prices context:
 In the context of rising inequality, house prices have seen a major rise when adjusting for earnings from 3.54x the median income in 1997 to 7.71x in 2024. Research has found that this sharp increases in house prices has exacerbated already prevalent health inequalities, where lower income individuals health is being negatively affected while wealthier individuals see health benefits (Grewal, 2024). 
 
 Liverpool has historically had lower house prices than the UK's average ( ). Although, the national increase in housing prices has been affecting prices in the city. Shown by the 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026).
 
-Past health research into childhood obesity in Liverpool revealed stark socio-economic inequalities, characterised by those from the most deprived communities (measured by IMD) having the greatest likelihood of being obese and vulnerable to poor health (Noonan, 2018). Furthermore, Noonan et al (2016) found that children growing up in deprived neighbourhoods were exposed to environments that are unfavourable to creating healthy behaviours. Therefore, its clear a relationship has been established within the city of Liverpool as on a national level between poor health and deprivated areas and individuals. Research has also presented evidence that air pollution in Liverpool is unevenly detrimentally affecting areas of deprivation 
 
 Past research using property prices as a proxy for socio-economic status by Coffee et al. (2013) showed that cardiovascular health along with obesity rates were lower in those of a higher status. Furthermore, the article highlights the importance of utilising housing prices as a measure of socio-economic status as generally the data is released alot more frequently than other types such as employment, education and income. 
-
-Therefore, this study seeks to investigate ,in Liverpool, whether incidence of very poor health is consistent with other research that has found socio-economic deprivation important.
-
 
 A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status.
 
@@ -47,6 +42,8 @@ Coffee, N.T., Lockwood, T., Hugo, G., Paquet, C., Howard, N.J. and Daniel, M., 2
 Esquivel M. and Wharton G (2024) Acting Early on NCDs: Research and action for digitally-enabled health systems. [Online] [Accessed 14/04/26] Available at: https://www.lse.ac.uk/business/consulting/news/acting-early-on-NCDs
 
 Feinstein, J.S., 1993. The relationship between socioeconomic status and health: a review of the literature. The Milbank Quarterly, pp.279-322.
+
+Higham, J.E., Sinha, I.P., Olajide, O., Saleh, S., Lee, A.R. and Holden, K., 2026. Air pollution and deprivation: a double burden on Liverpool’s children. Archives of Disease in Childhood.
 
 Grewal, A., Hepburn, K.J., Lear, S.A., Adshade, M. and Card, K.G., 2024. The impact of housing prices on residents’ health: a systematic review. BMC Public Health, 24(1), p.931.
 
