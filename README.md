@@ -2,7 +2,7 @@
 This project explores the relationship between housing prices and incidence of very bad health across Liverpool. To do this average housing prices are used as a proxy for socio-economic status of an LSOA to investigate if there is a relationship towards the incidence of very bad health across the city of Liverpool, UK.
 
 DATA TABLE: 
-<img width="737" height="595" alt="image" src="https://github.com/user-attachments/assets/fbac0fd2-3de8-405c-add8-1236d523540c" />
+<img width="737" height="596" alt="image" src="https://github.com/user-attachments/assets/036c7438-d5a0-408b-b1ef-7e8f150ca49a" />
 
 
 Background information on incidence of poor health:
