@@ -12,11 +12,12 @@ In the context of rising inequality, house prices have seen a major rise when ad
 
 Liverpool has historically had lower house prices than the UK's average ( ). Although, the national increase in housing prices has been affecting prices in the city. Shown by the 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026).
 
-Past health research into childhood obesity in Liverpool revealed stark socio-economic inequalities, characterised by those from the most deprived communities (measured by IMD) having the greatest likelihood of being obese and vulnerable to poor health (Noonan, 2018). Furthermore, Noonan et al (2016) found that children growing up in deprived neighbourhoods were exposed to environments that are unfavourable to creating healthy behaviours. Therefore, its clear a relationship has been established within the city of Liverpool as on a national level between poor health and deprivated areas and individuals.
+Past health research into childhood obesity in Liverpool revealed stark socio-economic inequalities, characterised by those from the most deprived communities (measured by IMD) having the greatest likelihood of being obese and vulnerable to poor health (Noonan, 2018). Furthermore, Noonan et al (2016) found that children growing up in deprived neighbourhoods were exposed to environments that are unfavourable to creating healthy behaviours. Therefore, its clear a relationship has been established within the city of Liverpool as on a national level between poor health and deprivated areas and individuals. Research has also presented evidence that air pollution in Liverpool is unevenly detrimentally affecting areas of deprivation 
 
 Past research using property prices as a proxy for socio-economic status by Coffee et al. (2013) showed that cardiovascular health along with obesity rates were lower in those of a higher status. Furthermore, the article highlights the importance of utilising housing prices as a measure of socio-economic status as generally the data is released alot more frequently than other types such as employment, education and income. 
 
 Therefore, this study seeks to investigate ,in Liverpool, whether incidence of very poor health is consistent with other research that has found socio-economic deprivation important.
+
 
 A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status.
 
