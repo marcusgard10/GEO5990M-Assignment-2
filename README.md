@@ -1,6 +1,10 @@
 # GEO5990M-Assignment-2
 This project explores the relationship between housing prices and incidence of very bad health across Liverpool. To do this average housing prices are used as a proxy for socio-economic status of an LSOA to investigate if there is a relationship towards the incidence of very bad health across the city of Liverpool, UK.
 
+DATA TABLE: 
+<img width="737" height="595" alt="image" src="https://github.com/user-attachments/assets/fbac0fd2-3de8-405c-add8-1236d523540c" />
+
+
 Background information on incidence of poor health:
 Across the 20th century saw the quality of healthcare and life expectancy increase dramatically for all in developed countries, but such a process occurred with distinct inequalities broadly characterised by poorer health outcomes for economically disadvantaged individuals (Feinstein, 1993). Since the 1980s, income inequality in the UK has risen according to the Gini coeffcient (Hassell et al., 2023). Evidence suggests that wealth inequality has risen, to a far greater extent than income, and is continuing to grow (Bourquin et al, 2024). For instance, between 2011 and 2019 Snell (2024) found that the wealth in the UK gap grew by 50%.
 
