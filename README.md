@@ -9,7 +9,6 @@ This project aims to explores the relationship between housing prices and incide
 The code is set up ready to first install and importing any relevant packages including geopandas, pandas, matplotlib and seaborn. Next the five relevant datasets are loaded which then undergo a process of data cleaning and exploration. After this an OLS regression model is ran between Average Housing Prices and Very Bad Health variables to investigate their statistical relationship. Finally, two visualisations are presented one non-spatial JointGrid made with Seaborn and a spatial subplot visualisation with Matplotlib.
 
 
-
 Background information on incidence of poor health:
 Across the 20th century saw the quality of healthcare and life expectancy increase dramatically for all in developed countries, but such a process occurred with distinct inequalities broadly characterised by poorer health outcomes for economically disadvantaged individuals (Feinstein, 1993). Since the 1980s, income inequality in the UK has risen according to the Gini coeffcient (Hassell et al., 2023). Evidence suggests that wealth inequality has risen, to a far greater extent than income, and is continuing to grow (Bourquin et al, 2024). For instance, between 2011 and 2019 Snell (2024) found that the wealth in the UK gap grew by 50%.
 
