@@ -7,6 +7,7 @@ The code is set up ready to first install and importing any relevant packages in
 # Datasource table 
 <img width="737" height="596" alt="image" src="https://github.com/user-attachments/assets/7e0ba84a-ad25-4597-926d-7ea2afea923a" />
 
+
 For transparency and reproducibility purposes a table on all the data sources is shown above. All the data for this project is avaiable at a national level for England and Wales meaning that more reasearch could follow a similar approach as undertaken in this project but with a focus on another city or geographic area.
 
 # Background information on incidence of poor health:
