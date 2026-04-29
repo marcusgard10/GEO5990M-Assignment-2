@@ -1,4 +1,7 @@
 # GEO5990M-Assignment-2
+
+# Exploring the relationship between average house prices and the incidence of very bad health across Liverpool.
+
 The code in this repository is a project that follows the key tenets of data science procedures (see below), in order to uphold its reproducibility and academic integrity. 
 
 <img width="1265" height="739" alt="image" src="https://github.com/user-attachments/assets/94a8544d-603d-4d0c-8fe7-da914ac19b29" />
