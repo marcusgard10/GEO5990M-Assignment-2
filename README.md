@@ -40,11 +40,10 @@ ONS (2024) Lower layer Super Output Areas (December 2021) Boundaries EW BFC (V10
 
 ONS (2024b) LSOA (2011) to LSOA (2021) to Local Authority District (2022) Exact Fit Lookup for EW (V3) [Online] [Accessed: 17/04/26] Available at: https://geoportal.statistics.gov.uk/datasets/ons::lsoa-2011-to-lsoa-2021-to-local-authority-district-2022-exact-fit-lookup-for-ew-v3/about 
 
-
 ONS (2025) Boundaries UK BFC Wards (December 2025) [Accessed:14/04/26] Available at:https://geoportal.statistics.gov.uk/datasets/5afda580671b4416a4c338ddb1fe066d_0/explore 
 
 
-References:
+# References:
 Ali, P. and Younas, A., 2021. Understanding and interpreting regression analysis. Evidence-based nursing, 24(4), pp.116-118.
 
 Bourquin, P., Brewer, M. and Wernham, T., 2024. Trends in income and wealth inequalities. Oxford Open Economics, 3(Supplement_1), pp.i103-i146. DOI: https://doi.org/10.1093/ooec/odad100
