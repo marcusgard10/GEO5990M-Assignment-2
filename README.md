@@ -20,48 +20,12 @@ Liverpool has historically had lower house prices than the UK's average ( ). Alt
 
 Past research using property prices as a proxy for socio-economic status by Coffee et al. (2013) showed that cardiovascular health along with obesity rates were lower in those of a higher status. Furthermore, the article highlights the importance of utilising housing prices as a measure of socio-economic status as generally the data is released alot more frequently than other types such as employment, education and income. 
 
-Justifications of data cleaning and manipulation:
-Firstly, the house pricing dataset was merged with the lookup file so that the values can be mapped on the newer 2021 LSOAs. This showed if LSOAs were unchanged, split or merged between the 2011-2021 datasets. The house pricing dataset was then cleaned so that a mean value for each LSOA in 2022 could be calculated. LSOAs that had merged between 2011-2021 needed attention as previously existing LSOAs were now one (6 LSOAs were identified as being merged), therefore the mean values of merged LSOAs were added together to harmonise the data. This process of harmonising is the standard procedure to maintain comparability to previous data and allows the data to kept (Ward et al., 2025).
-
-There were two LSOAs (E01006732) and (E01033749 2011 code that merged to E01034404 in 2021) that had no house pricing data for 2022 and were dropped from the dataset. The E01006732 LSOA was also dropped from the health data set to keep consistency between datasets. E01034404 was an LSOA that merged into another LSOA between 2011-2021 meaning no action was taken, as it does not exist as a feature in the health data (which uses 2021 LSOAs). This a downside to my cleaning process as the E01034404 LSOA is only taking data from one of the merged LSOAs as E01033749 was dropped due to no data. This left the dataset with 301 of the 302 2021 LSOAs, with one missing LSOA (E01006732). The health data needed minimal cleaning bar splitting a column. 
-
-Both the house pricing and health datasets were merged with the LSOAs geometry individually. Both datasets were also merged, with no geometry data, to allow for non-spatial visualisation and exploration. The final step was to add a new category in this merged data frame that sorted the LSOAs into by house price quintiles. This was informed by the data exploration stage, as it was clear that the data was unevenly distributed so quintiling the data enabled an even number of points to be contained in each category for analysis.
-
-My results and findings:
-
-OLS regression:
-I chose to statistically model the relationship between housing prices and incidence of very bad health by using Ordinary Least Squared (OLS) regression. OLS regression is intended for continuous numeric data types and evaluates the relationship between variables (Ali and Younas, 2021). This fits the two chosen variables. Furthermore, OLS regression is a commonly used statistically modelling approach and is highly interpretable.
-R-squared is commonly used to interpret regression models, by assessing the models fit from 0-1 and giving an output (Krieg, 2020). This OLS regression outputted an adjusted R-squared of 0.238. This suggests that that 23.8% of the variation in very bad health (dependent variable) is explained by housing prices. This was a statically significant finding given that the P Value is 0.000. Therefore, the model suggests a reasonably fit given the fact it only contains a singular variable. Although, it is also clear from this model that other factors are important in explaining the proportion of very bad health in LSOAs.
-
-Intepretation of Non-spatial:
-
-
-Interpretation of Spatial:
-
-
-Justifications for non-spatial:
-I utilised the Jointgrid function within Seaborn to create this visualisation, due to its key functionality allowing the user to include three graphical visualisations into one output. The main output was set to a scatterplot to give the ability to interpret individual data points and allow for visual exploration of the significance of the relationship between variables (Kirk, 2024). This seems appropriate given the relatively small dataset of 301 points (LSOAs) and meant that overcrowding of points, which may make interpretation of scatterplots challenging would not be such a dilemma. Furthermore, the scatterplot in seaborn has the built-in functionality to colouring these individual data points which allows for the house price quintiles to be displayed on the plot. The house pricing variable was split into quintiles to allow for quick interpretation of the key patterns between LSOAs proportion of individuals in very bad health. By doing this, the scatterplot communicates the general pattern that areas with higher house prices have lower proportions of individuals reporting very bad health and vice versa. The marginal plots were set to KDE plots on the side to further inform on the distribution of both datasets and to further illustrate the pattern between house price quintiles.
-The colour scheme was carefully selected with colour deficiencies in mind, making the output accessible and interpretable. The colour palette was developed by incorporating recommendations from Phillips (2022). The final scheme utilised a mixture of Paul Tol's muted and Okabe and Ito's colour schemes to give a unique but accessible palette. A sequential colour scheme could have potentially been utilised for this visualisation, but this was tested and it made the output more complex and less interpretable.
-
- 
-Justification of the spatial:
-Subplots from matplotlib was utilised to allow for both house prices and the prevalence of very bad health to be visualised. Both maps in the spatial visualisation were set to quantile data types to make them easily comparable, with each map having 5 categories. The visualisations were made cleaner and more informative by including many discrete but important items such as north arrows, scale bars, map frames, a background colour, offsetting the legend colour, including data sources.
-The sequential blue colour scheme was created bespoke for this output, by utilising the 'Chroma.js' (Chroma.js, n.d.) tool that simulates viewing colour palettes as they would look if you had different types of colour deficiency. The design of this colour palette was made to be accessible and stylish, whilst also illustrating the ordinal type of data presented through a sequential colour palette that conveys the data’s sequence (Rey et al., 2023). This fits the house prices and very bad health proportion being visualised as both are on scales from low-high, whereby the darkest blue represents high house prices and high rates of very bad health. 
-To further improve the outputs and to allow for geographical referencing Liverpool’s wards were added.  Although, the labelling of every ward was not included as the map became overcrowded due to the 64 different place names being displayed. Therefore, manually reference points were added instead so that the map still communicates some of the geographical localities across Liverpool. This allows for better and quicker interpretation.
-This was done using the website grid reference finder (https://gridreferencefinder.com/) and by hand to find the correct easting and northing points.
-
-The intended audience for both these visualisations is individuals in academia or public policy to encourage further research and policy change in combatting health-based socio-economic inequalities
-
-
-
-
-
 A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status. 
 A point of confusion when interpretating the maps may be that both maps have dark blue as showing high values. But high house prices and high proportion of very bad health have different interpretation connotations i.e. high house prices is positive but high proportion of very bad health is negative. 
 
 
 
-Datasources:
+# Datasources:
 
 ONS (2023) Mean house prices by lower layer super output area: HPSSA dataset 47 [Accessed: 13/04/26] Available at:https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/meanpricepaidbylowerlayersuperoutputareahpssadataset47 
 
