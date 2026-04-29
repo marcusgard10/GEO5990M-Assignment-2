@@ -1,7 +1,8 @@
 # GEO5990M-Assignment-2
 The code in this repository is a project that follows the key tenets of data science procedures (see below), in order to uphold its reproducibility and academic integrity. 
 
-<img width="1317" height="740" alt="image" src="https://github.com/user-attachments/assets/d30a51f9-8a4b-41ea-a553-c7b52e0cb357" />
+<img width="1265" height="739" alt="image" src="https://github.com/user-attachments/assets/94a8544d-603d-4d0c-8fe7-da914ac19b29" />
+
 
 
 This project aims to explores the relationship between housing prices and incidence of self-reported very bad health across Liverpool. To do this average housing prices are used as a proxy for socio-economic status of an LSOA to investigate if there is a relationship towards the incidence of very bad health across the city of Liverpool, UK.
