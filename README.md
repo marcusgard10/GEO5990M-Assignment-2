@@ -1,12 +1,12 @@
 # GEO5990M-Assignment-2
 The code in this repository is a project that follows the key tenets of data science procedures (see below), in order to uphold its reproducibility and academic integrity. 
 
-<img width="737" height="596" alt="image" src="https://github.com/user-attachments/assets/7e0ba84a-ad25-4597-926d-7ea2afea923a" />
-
-
 This project aims to explores the relationship between housing prices and incidence of very bad health across Liverpool. To do this average housing prices are used as a proxy for socio-economic status of an LSOA to investigate if there is a relationship towards the incidence of very bad health across the city of Liverpool, UK.
 
-The code is set up ready to first install and importing any relevant packages including geopandas, pandas, matplotlib and seaborn. Next the five relevant datasets are loaded which then undergo a process of data cleaning and exploration. After this an OLS regression model is ran between Average Housing Prices and Very Bad Health variables to investigate their statistical relationship. Finally, two visualisations are presented one non-spatial JointGrid made with Seaborn and a spatial subplot visualisation with Matplotlib.
+The code is set up ready to first install and importing any relevant packages including geopandas, pandas, matplotlib and seaborn. Next the five relevant datasets are loaded which then undergo a process of data cleaning and exploration. After this an OLS regression model is ran between Average Housing Prices and Very Bad Health variables to investigate their statistical relationship. Finally, two visualisations are presented one non-spatial JointGrid made with Seaborn and a spatial subplot visualisation with Matplotlib. For transparency and reproducabiltiy purposes a table on all the data sources is shown below.
+
+# Datasource table 
+<img width="737" height="596" alt="image" src="https://github.com/user-attachments/assets/7e0ba84a-ad25-4597-926d-7ea2afea923a" />
 
 
 Background information on incidence of poor health:
