@@ -23,6 +23,14 @@ Past research using property prices as a proxy for socio-economic status by Coff
 A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status. 
 A point of confusion when interpretating the maps may be that both maps have dark blue as showing high values. But high house prices and high proportion of very bad health have different interpretation connotations i.e. high house prices is positive but high proportion of very bad health is negative. 
 
+# Non spatial output
+
+<img width="1291" height="995" alt="image" src="https://github.com/user-attachments/assets/00f3c588-023b-4d7b-b609-920800f355eb" />
+
+
+# Spatial output
+
+<img width="2896" height="1760" alt="image" src="https://github.com/user-attachments/assets/13d9ade9-8d56-4cb3-ad43-d9efe933e857" />
 
 
 # Datasources:
@@ -41,11 +49,17 @@ ONS (2025) Boundaries UK BFC Wards (December 2025) [Accessed:14/04/26] Available
 
 References:
 Ali, P. and Younas, A., 2021. Understanding and interpreting regression analysis. Evidence-based nursing, 24(4), pp.116-118.
-Bourquin, P., Brewer, M. and Wernham, T., 2024. Trends in income and wealth inequalities. Oxford Open Economics, 3(Supplement_1), pp.i103-i146. DOI:
+
+Bourquin, P., Brewer, M. and Wernham, T., 2024. Trends in income and wealth inequalities. Oxford Open Economics, 3(Supplement_1), pp.i103-i146. DOI: https://doi.org/10.1093/ooec/odad100
+
 Burns, L., 2016. Creating a Health/Deprivation Geodemographic Classification System Using K-Means Clustering Methods. London: Sage Publications. DOI: https://doi.org/10.4135/9781473977839
+
 Coffee, N.T., Lockwood, T., Hugo, G., Paquet, C., Howard, N.J. and Daniel, M., 2013. Relative residential property value as a socio-economic status indicator for health research. International journal of health geographics, 12(1), p.22.
+
 Esquivel M. and Wharton G (2024) Acting Early on NCDs: Research and action for digitally-enabled health systems. [Online] [Accessed 14/04/26] Available at: https://www.lse.ac.uk/business/consulting/news/acting-early-on-NCDs
+
 Feinstein, J.S., 1993. The relationship between socioeconomic status and health: a review of the literature. The Milbank Quarterly, pp.279-322.
+
 Hassell, J., Rohenkohl, B., Arriagada, P. Ortiz-Ospina E. and Roser M. (2023) Economic Inequality. Our World in Data. [Online] [Accesed: 17/04/26] Available at: https://ourworldindata.org/economic-inequality .
 
 Higham, J.E., Sinha, I.P., Olajide, O., Saleh, S., Lee, A.R. and Holden, K., 2026. Air pollution and deprivation: a double burden on Liverpool’s children. Archives of Disease in Childhood.
