@@ -16,13 +16,10 @@ Simultaneously, new health challenges are emerging, most notably the rise of mor
 
 # Housing prices context:
 In the context of rising inequality, house prices have seen a major rise when adjusting for earnings from 3.54x the median income in 1997 to 7.71x in 2024. Research has found that this sharp increases in house prices has exacerbated already prevalent health inequalities, where lower income individuals’ health is being negatively affected while wealthier individuals see health benefits (Grewal, 2024). 
-Liverpool has historically had lower house prices than the UK's average ( ). Although, the national increase in housing prices has been affecting prices in the city. Shown by the 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026).
+Historically Liverpool has had lower house prices than the UK's average (ONS, 2026). Although, the national increase in housing prices has been affecting prices in the city, shown by the 6.5% increase in the average house price between Janurary 2025 and 2026 (ONS, 2026). Furthermore, research using property prices as a proxy for socio-economic status by Coffee et al. (2013) has found that cardiovascular health along with obesity rates were lower in those of a higher status. Therefore, considering both the growing house prices in Liverpool and the link of socio-economic status to health research is required in the area. House prices are an appropriate measure of socio-economic status and are data on them is more frequently released than other determinants such as employment, education and income Coffee et al. (2013).
 
-Past research using property prices as a proxy for socio-economic status by Coffee et al. (2013) showed that cardiovascular health along with obesity rates were lower in those of a higher status. Furthermore, the article highlights the importance of utilising housing prices as a measure of socio-economic status as generally the data is released alot more frequently than other types such as employment, education and income. 
-
-A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status. 
-A point of confusion when interpretating the maps may be that both maps have dark blue as showing high values. But high house prices and high proportion of very bad health have different interpretation connotations i.e. high house prices is positive but high proportion of very bad health is negative. 
-
+# Limitation
+A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status. The housing pricing data from 2022 is also slightly out of date and therefore will not fully capture the very recent increases in housing prices.
 # Non spatial output
 
 <img width="1291" height="995" alt="image" src="https://github.com/user-attachments/assets/00f3c588-023b-4d7b-b609-920800f355eb" />
