@@ -30,12 +30,13 @@ Historically Liverpool has had lower house prices than the UK's average (ONS, 20
 A limitation of this research is that the health data is procured from Census 2021 data, which was during the COVID-19 pandemic and may impact how people were self-reporting their health status. The housing pricing data from 2022 is also slightly out of date and therefore will not fully capture the very recent increases in housing prices.
 # Non spatial output
 
-<img width="1291" height="995" alt="image" src="https://github.com/user-attachments/assets/00f3c588-023b-4d7b-b609-920800f355eb" />
+<img width="1291" height="995" alt="image" src="https://github.com/user-attachments/assets/3d080a3d-4ce0-498c-8c7c-199ec0a9464e" />
 
 
 # Spatial output
 
-<img width="2896" height="1760" alt="image" src="https://github.com/user-attachments/assets/13d9ade9-8d56-4cb3-ad43-d9efe933e857" />
+<img width="2896" height="1760" alt="image" src="https://github.com/user-attachments/assets/811a0b56-1851-4403-8a76-5f2caf0881e4" />
+
 
 
 # Datasources:
